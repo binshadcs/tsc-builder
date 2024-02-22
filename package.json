@@ -1,0 +1,12 @@
+{
+  "name": "@binshadcs/tsc-builder",
+  "version": "1.0.2",
+  "description": "Tsc-Builder is a Node.js command-line utility that helps you build TypeScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
